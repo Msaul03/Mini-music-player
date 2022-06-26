@@ -7,7 +7,7 @@
 * Repeat Song
 
 ### Demo
-`<link>` : <https://github.com>
+`<link>` : <https://msaul03.github.io/Mini-music-player/>
 
 ### Screenshot
-![Image](Captura.PNG)
+![Image](./Captura.PNG)
