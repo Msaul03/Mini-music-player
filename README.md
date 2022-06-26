@@ -10,4 +10,4 @@
 `<link>` : <https://msaul03.github.io/Mini-music-player/>
 
 ### Screenshot
-![Image](./Captura.PNG)
+![Image](./images/Captura.PNG)
