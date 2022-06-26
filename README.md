@@ -1,7 +1,13 @@
 # Music-Player with JavaScript
 
-Function
-1) Random Song
-2) Previous Song
-3) Next Song
-4) Repeat Song
+### Function
+* Random Song
+* Previous Song
+* Next Song
+* Repeat Song
+
+### Demo
+`<link>` : <https://github.com>
+
+### Screenshot
+![Image](Captura.PNG)
